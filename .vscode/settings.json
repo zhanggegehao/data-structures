@@ -1,5 +1,18 @@
 {
     "files.associations": {
-        "type_traits": "c"
+        "type_traits": "c",
+        "stdio.h": "c",
+        "bit": "c",
+        "cassert": "c",
+        "climits": "c",
+        "cmath": "c",
+        "compare": "c",
+        "concepts": "c",
+        "cstdio": "c",
+        "cstdlib": "c",
+        "limits": "c",
+        "new": "c",
+        "cstdint": "c",
+        "typeinfo": "c"
     }
 }
